@@ -1,0 +1,82 @@
+[
+{
+	"Name" : "Taipei Grand Mosque",
+	"Description" : "The Taipei Grand Mosque is the largest and most famous mosque in Taiwan with a total area of 2,747 square metres (29,570 sq ft). Located in the Daan District of Taipei City, it is Taiwan's most important Islamic structure and was registered as a historic landmark on 29 June 1999 by the Taipei City Government.",
+	"Established" : "1947 (original building)",
+	"Location" : "Da'an, Taipei",
+	"Latitude" : 25.027954,
+	"Longitude" : 121.5336417
+},
+
+{
+	"Name" : "Kaohsiung Mosque",
+	"Description" : "Kaohsiung Mosque was built in 1949 in Taiwan by Muslim nationalists after their defeat against the communists in the Chinese civil war. In the beginning, Muslim public officers worked with the Kuomintang government to suggest the construction of a new mosque in Taiwan and started to raise funds from January 1949. Initially, they rented a 270 square meters of space at 117 Wufu 4th (五福四) Road in Yancheng District as a temporary location.",
+	"Established" : "1949 (original building)",
+	"Location" : "Lingya, Kaohsiung",
+	"Latitude" : 22.6280028 ,
+	"Longitude" : 120.3397586
+},
+
+{
+	"Name" : "Taipei Cultural Mosque",
+	"Description" : "Taipei Cultural Mosque was built in 1950 at Roosevelt Road by Xiao Yongtai (蕭永泰) or Akhond Hsiao from Northwest China. The mosque was initially located at Xiao's Japanese-style house. His main thought was to spread Islam through cultural movement, thus he also reestablished the Chinese Muslim Youth League. Due to the road widening scheme on Roosevelt Road, the mosque had to be relocated to its current location near the old location at Xinhai Road (辛亥路). The old mosque building had to be torn down for road construction work.",
+	"Established" : "1950 (original building)",
+	"Location" : "Zhongzheng, Taipei",
+	"Latitude" : 25.0193992 ,
+	"Longitude" : 121.525806
+},
+
+{
+	"Name" : "Taichung Mosque",
+	"Description" : "After fleeing Mainland China with the Nationalist Government at the end of the Chinese Civil War in 1949, some Chinese Muslims resided in Tianzhong, Changhua. To accommodate their needs to pray, Muslims did their prayers in some houses. One notable house used for prayer was the house of Qi Yulao (耆于老). When their number grew bigger, such venues could no longer accommodate all of them.",
+	"Established" : "1951 (original building)",
+	"Location" : "Nantun, Taichung",
+	"Latitude" : 24.1361504 ,
+	"Longitude" : 120.647652
+},
+
+{
+	"Name" : "Longgang Mosque",
+	"Description" : "In 1953, the United Nations General Assembly passed a resolution condemning the Taipei government for its actions and guerilla warfare inside Burma. Finally, an agreement was reached between Taipei, Rangoon, and Bangkok for the evacuation of all Kuomintang Irregular forces under command of General Li Mi to Taiwan. Civil Air Transport transported 5,583 Kuomintang soldiers and 1,040 dependents to Taiwan. The majority of these guerrilla forces were Muslim and had no place to worship in their new Taiwan home and so they started to raise funds to construct a mosque in 1964.",
+	"Established" : "1967 (original building)",
+	"Location" : "Zhongli, Taoyuan",
+	"Latitude" : 24.9299541 ,
+	"Longitude" : 121.251526
+},
+
+{
+	"Name" : "Tainan Mosque",
+	"Description" : "Before the establishment of the mosque, Muslims around Tainan had to travel to Kaohsiung for any mosque-related activities at Kaohsiung Mosque. The land was donated by Wang Huihuan, a local Muslim living in the United States. Initially, the land title was given to Taipei Grand Mosque, but then it was transferred to the Kaohsiung Mosque which managed the construction of the Tainan Mosque.",
+	"Established" : "September 1996",
+	"Location" : "East District, Tainan",
+	"Latitude" : 22.9784539 ,
+	"Longitude" : 120.2262676
+},
+
+{
+	"Name" : "At-Taqwa Mosque",
+	"Description" : "The mosque development was started by an Indonesian-Taiwanese couple who own an Indonesian shop around the area where most of the Indonesian workers work at the factories or in households. They purchased empty land beside their shop to build a mosque. With the help of funding and lending from various organizations, the mosque could finally be constructed a year later. The mosque was officially opened on 9 June 2013. On 24 April 2016, the Taiwan Muslim Association (TMA; Chinese: 台湾輔導穆斯林協會; pinyin: Táiwān Fǔdǎo Mùsīlín Xiéhuì) was established and headquartered at the mosque.",
+	"Established" : "9 June 2013",
+	"Location" : "Dayuan, Taoyuan",
+	"Latitude" : 25.0673336 ,
+	"Longitude" : 121.1781264
+},
+
+{
+	"Name" : "An-Nur Tongkang Mosque",
+	"Description" : "The mosque originally started inside a rented house at 34-1 Fengyu Street (豐漁街) in Donggang Township,[4] in which most of the worshipers are Indonesian fishermen from the area. After enough funds were collected over the past 10 years, worshipers had the idea to purchase the rented house and convert it into a mosque. Due to the reluctance of the house owner to sell it, worshipers had to look for a different house. They finally found one nearby the first house in Xingyu Street (興漁街), which is still located within the same township, and purchased it for an amount of NT$5.4 million. It was then renovated for a cost of NT$1 million with the addition of a wudu area and some air conditioning systems. It was eventually turned into the mosque. The mosque was officially opened on 18 February 2018.",
+	"Established" : "18 February 2018",
+	"Location" : "Donggang, Pingtung",
+	"Latitude" : 22.4613494 ,
+	"Longitude" : 120.4443809
+},
+
+{
+	"Name" : "Hualien Al-Falah Mosque",
+	"Description" : "The mosque was inaugurated by former Indonesian Minister of Law and Human Rights Mahfud MD on 18 March 2018. On 10 November 2019, an information and complaint service counter for Indonesian migrant workers in Taiwan was established at the meeting room of the mosque building.",
+	"Established" : "18 March 2018",
+	"Location" : "Hualien City, Hualien County",
+	"Latitude" : 23.9953019 ,
+	"Longitude" : 121.5949104
+}
+]
